@@ -10,7 +10,7 @@ Collect data including store type, department, temperature, CPI, unemployment ra
 Ensure data is clean and properly formatted for analysis.
 ## 2. Data Preprocessing
 Objective: Prepare the data for modeling.
-Process:
+- Process:
 Handle missing values and outliers.
 Encode categorical variables (e.g., store type, holiday status).
 Scale numerical features (e.g., temperature, CPI, unemployment rate).
@@ -21,38 +21,38 @@ Create new features if necessary (e.g., interaction terms).
 Ensure features are relevant and contribute to model accuracy.
 ## 4. Model Development
 Objective: Build a predictive model for sales forecasting.
-Process:
+- Process:
 Split data into training and testing sets.
 Train multiple machine learning models (e.g., Linear Regression, Random Forest, XGBoost).
 Evaluate models using performance metrics (e.g., RMSE, MAE).
 Select the best-performing model for deployment.
 ## 5. Model Training
 Objective: Train the final model on the entire training set.
-Process:
+- Process:
 Fine-tune model hyperparameters for optimal performance.
 Validate the model to ensure robustness and accuracy.
 ## 6. Model Deployment
 Objective: Deploy the model for real-time predictions.
-Process:
+- Process:
 Save the trained model using joblib.
 Develop a Streamlit application to provide an interactive user interface.
 ## 7. Streamlit Application Development
 Objective: Create a user-friendly web app for sales predictions.
-Process:
+- Process:
 Design the layout and interface with input fields for store type, department, temperature, etc.
 Integrate the model to provide real-time sales predictions based on user inputs.
 ## 8. Testing and Validation
 Objective: Ensure the application works correctly and provides accurate predictions.
-Process:
+- Process:
 Test the application with various inputs to validate functionality.
 Perform user acceptance testing to gather feedback and make improvements.
 ## 9. Documentation
 Objective: Provide comprehensive documentation for the project.
-Process:
+- Process:
 Write detailed README file with project overview, setup instructions, and usage guide.
 Document the data sources, preprocessing steps, model development, and deployment process.
 ## 10. Deployment and Sharing
 Objective: Deploy the application and share the project.
-Process:
+- Process:
 Host the Streamlit app using Streamlit Sharing or any cloud platform.
 Share the GitHub repository with detailed documentation and source code.
