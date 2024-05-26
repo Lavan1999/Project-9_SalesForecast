@@ -1,48 +1,49 @@
 # Store Sales Forecasting Model
 
-## Project Workflow
+LinkedIN Video Link:https://www.linkedin.com/feed/update/urn:li:activity:7199431422363770882/
+## What I Have Done in This Project
 This project aims to develop a machine learning model to forecast weekly sales for different store types. The application is built using Python and Streamlit, providing an interactive interface for users to input relevant features and obtain sales predictions.
 
 ## 1. Data Collection
-Objective: Gather historical sales data.
+Objective: Gathered historical sales data.
 - Process:
-Collect data including store type, department, temperature, CPI, unemployment rate, holiday status, and store size.
-Ensure data is clean and properly formatted for analysis.
+Collected data including store type, department, temperature, CPI, unemployment rate, holiday status, and store size.
+Ensured data is clean and properly formatted for analysis.
 ## 2. Data Preprocessing
-Objective: Prepare the data for modeling.
+Objective: Prepared the data for modeling.
 - Process:
-Handle missing values and outliers.
-Encode categorical variables (e.g., store type, holiday status).
-Scale numerical features (e.g., temperature, CPI, unemployment rate).
+Handled missing values and outliers.
+Encoded categorical variables (e.g., store type, holiday status).
+Scaled numerical features (e.g., temperature, CPI, unemployment rate).
 ## 3. Feature Engineering
-Objective: Create meaningful features for the model.
-Process:
-Create new features if necessary (e.g., interaction terms).
-Ensure features are relevant and contribute to model accuracy.
+Objective: Created meaningful features for the model.
+- Process:
+Created new features if necessary (e.g., interaction terms).
+Ensured features are relevant and contribute to model accuracy.
 ## 4. Model Development
-Objective: Build a predictive model for sales forecasting.
+Objective: Built a predictive model for sales forecasting.
 - Process:
 Split data into training and testing sets.
-Train multiple machine learning models (e.g., Linear Regression, Random Forest, XGBoost).
-Evaluate models using performance metrics (e.g., RMSE, MAE).
-Select the best-performing model for deployment.
+Trained multiple machine learning models (e.g., Linear Regression, Random Forest, XGBoost).
+Evaluated models using performance metrics (e.g., RMSE, MAE).
+Selected the best-performing model for deployment.
 ## 5. Model Training
-Objective: Train the final model on the entire training set.
+Objective: Trained the final model on the entire training set.
 - Process:
-Fine-tune model hyperparameters for optimal performance.
-Validate the model to ensure robustness and accuracy.
+Fine-tuned model hyperparameters for optimal performance.
+Validated the model to ensure robustness and accuracy.
 ## 6. Model Deployment
-Objective: Deploy the model for real-time predictions.
+Objective: Deployed the model for real-time predictions.
 - Process:
-Save the trained model using joblib.
-Develop a Streamlit application to provide an interactive user interface.
+Saved the trained model using joblib.
+Developed a Streamlit application to provide an interactive user interface.
 ## 7. Streamlit Application Development
-Objective: Create a user-friendly web app for sales predictions.
+Objective: Created a user-friendly web app for sales predictions.
 - Process:
-Design the layout and interface with input fields for store type, department, temperature, etc.
-Integrate the model to provide real-time sales predictions based on user inputs.
+Designed the layout and interface with input fields for store type, department, temperature, etc.
+Integrated the model to provide real-time sales predictions based on user inputs.
 ## 8. Testing and Validation
-Objective: Ensure the application works correctly and provides accurate predictions.
+Objective: Ensured the application works correctly and provides accurate predictions.
 - Process:
 Test the application with various inputs to validate functionality.
 Perform user acceptance testing to gather feedback and make improvements.
