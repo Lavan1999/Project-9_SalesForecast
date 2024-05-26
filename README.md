@@ -5,7 +5,7 @@ This project aims to develop a machine learning model to forecast weekly sales f
 
 ## 1. Data Collection
 Objective: Gather historical sales data.
-Process:
+- Process:
 Collect data including store type, department, temperature, CPI, unemployment rate, holiday status, and store size.
 Ensure data is clean and properly formatted for analysis.
 ## 2. Data Preprocessing
