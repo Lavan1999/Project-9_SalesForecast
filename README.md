@@ -1,6 +1,8 @@
 # Store Sales Forecasting Model
 
 LinkedIN Video Link:https://www.linkedin.com/feed/update/urn:li:activity:7199431422363770882/
+![Screenshot (322)](https://github.com/Lavan1999/Project-9_SalesForecast/assets/152668558/61056a29-99ba-4ed0-bd73-d3d280a41ddb)
+
 ## What I Have Done in This Project
 This project aims to develop a machine learning model to forecast weekly sales for different store types. The application is built using Python and Streamlit, providing an interactive interface for users to input relevant features and obtain sales predictions.
 
