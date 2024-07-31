@@ -1,8 +1,9 @@
 # Store Sales Forecasting Model
 
+LinkedIN Video Link:https://www.linkedin.com/feed/update/urn:li:activity:7199431422363770882/
+
 ![Screenshot (401)](https://github.com/user-attachments/assets/da3e37b6-2707-4ed9-89bc-6a4f55c539f7)
 
-LinkedIN Video Link:https://www.linkedin.com/feed/update/urn:li:activity:7199431422363770882/
 ![Screenshot (322)](https://github.com/Lavan1999/Project-9_SalesForecast/assets/152668558/61056a29-99ba-4ed0-bd73-d3d280a41ddb)
 
 ## What I Have Done in This Project
